@@ -2,5 +2,5 @@
 Up to data as my live business card.  
 see [my CV](https://github.com/bujingyi/my-curriculum-vitae/blob/master/my_cv.pdf)
 
-Template downloaded from http://www.LaTeXTemplates.com  
+Template downloaded and modified from [LaTeX Templates](http://www.LaTeXTemplates.com) 
 
